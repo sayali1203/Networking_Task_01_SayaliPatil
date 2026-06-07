@@ -1,0 +1,8 @@
+1. Was the ping successful?
+Yes
+
+2. How many hops were shown?
+21 Hops
+
+3. What is the purpose of traceroute?
+Traceroute shows the path data packets take from my device to a destination server.
